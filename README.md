@@ -1,88 +1,33 @@
-<div align="center">
+# Nguyễn Quyết Chiến (`siinquyet`)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="Xin chào!" />
+Sinh viên Công nghệ Thông tin. Học bằng cách làm dự án thật — mỗi đồ án là một bài toán phải chạy được end-to-end, không phải demo cho đẹp.
 
-</div>
+## Dự án nổi bật
 
-## 🙋 Giới thiệu
+| Dự án | Bài toán giải quyết | Tech stack | Repo |
+|---|---|---|---|
+| **LMS** | Hệ thống quản lý học tập: khoá học, bài giảng, người học (đồ án 3) | TypeScript | [siinquyet/LMS](https://github.com/siinquyet/LMS) |
+| **QLmobile** | Ứng dụng Android quản lý thông tin (đồ án mobile) | Kotlin | [siinquyet/QLmobile](https://github.com/siinquyet/QLmobile) |
+| **QLSthuvienCsharp** | Phần mềm quản lý thư viện sách: mượn/trả, tra cứu | C# | [siinquyet/QLSthuvienCsharp](https://github.com/siinquyet/QLSthuvienCsharp) |
 
-- 🎓 Sinh viên Công nghệ Thông tin
-- 🔭 Đồ án gần nhất: [LMS — Hệ thống quản lý học tập](https://github.com/siinquyet/LMS) (TypeScript)
-- 📱 Có kinh nghiệm làm app Android với **Kotlin**
-- 🌱 Đang học sâu: **TypeScript**, **React**, **Node.js**
-- 💬 Hỏi mình về: C#, Web, Android
-- ⚡ Slogan: *Học bằng cách làm thật.*
+## Tech stack
 
-<div align="center">
+- **Dùng hàng ngày:** TypeScript, JavaScript, React, Node.js, HTML/CSS
+- **Đã dùng qua đồ án:** Kotlin, C#, SQL
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="Coding vibe" />
+## Môi trường làm việc
 
-</div>
+- Windows + VS Code, thao tác Git bằng dòng lệnh
+- Luôn có `opencode` (AI CLI) trong terminal như một reviewer trực thường trực
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+## Contribution graph ở dạng khác
 
-## 🛠️ Tech Stack
+Dữ liệu commit thật của tôi được render thành game bắn phi thuyền, tự cập nhật mỗi ngày:
 
-<div align="center">
+![Space shooter sinh từ contribution graph](game.gif)
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,kotlin,cs,html,css,git,github,vscode" />
-</a>
+## Liên hệ
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siinquyet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siinquyet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=siinquyet&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=siinquyet&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-
-## 🐍 Con rắn ăn commit
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siinquyet/siinquyet/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/siinquyet/siinquyet/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-
-## 🚀 Game bắn phi thuyền
-
-<div align="center">
-
-<img src="game.gif" alt="Game bắn phi thuyền sinh từ contribution graph" width="700" />
-<br/>
-<sub>💥 Mỗi ô contribution là một kẻ địch — ô càng xanh thì địch càng mạnh. Tự cập nhật mỗi ngày!</sub>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-
-## 🔗 Kết nối với mình
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siinquyet@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/siinquyet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siinquyet)
-
-</div>
+- Email: siinquyet@gmail.com
+- GitHub: [@siinquyet](https://github.com/siinquyet)
+- Facebook: [fb.com/siinquyet](https://facebook.com/siinquyet)
