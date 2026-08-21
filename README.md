@@ -1,4 +1,4 @@
-# Nguyễn Quyết Chiến (`siinquyet`)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=170&section=header&text=Nguy%E1%BB%85n%20Quy%E1%BA%BFt%20Chi%E1%BA%BFn&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=github.com/siinquyet&descSize=16&descAlignY=62" width="100%" alt="header" />
 
 Sinh viên Công nghệ Thông tin. Học bằng cách làm dự án thật — mỗi đồ án là một bài toán phải chạy được end-to-end, không phải demo cho đẹp.
 
@@ -12,13 +12,25 @@ Sinh viên Công nghệ Thông tin. Học bằng cách làm dự án thật — 
 
 ## Tech stack
 
-- **Dùng hàng ngày:** TypeScript, JavaScript, React, Node.js, HTML/CSS
-- **Đã dùng qua đồ án:** Kotlin, C#, SQL
+**Dùng hàng ngày:** TypeScript · JavaScript · React · Node.js · HTML/CSS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css" alt="icons hàng ngày" />
+
+</div>
+
+**Đã dùng qua đồ án:** Kotlin · C# · SQL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,cs" alt="icons qua đồ án" />
+
+</div>
 
 ## Môi trường làm việc
 
 - Windows + VS Code, thao tác Git bằng dòng lệnh
-- Luôn có `opencode` (AI CLI) trong terminal như một reviewer trực thường trực
 
 ## Contribution graph ở dạng khác
 
