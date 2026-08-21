@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+siinquyet+%F0%9F%91%8B;Sinh+vi%C3%AAn+C%C3%B4ng+ngh%E1%BB%87+Th%C3%B4ng+tin;H%C3%A2m+m%E1%BB%99+Web+%26+Mobile+Development" alt="Typing SVG" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="Xin chào!" />
 
 </div>
 
@@ -13,6 +13,14 @@
 - 💬 Hỏi mình về: C#, Web, Android
 - ⚡ Slogan: *Học bằng cách làm thật.*
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="Coding vibe" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -22,6 +30,8 @@
 </a>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
@@ -40,6 +50,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+
 ## 🐍 Con rắn ăn commit
 
 <div align="center">
@@ -50,6 +62,20 @@
 </picture>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+
+## 🚀 Game bắn phi thuyền
+
+<div align="center">
+
+<img src="game.gif" alt="Game bắn phi thuyền sinh từ contribution graph" width="700" />
+<br/>
+<sub>💥 Mỗi ô contribution là một kẻ địch — ô càng xanh thì địch càng mạnh. Tự cập nhật mỗi ngày!</sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
 ## 🔗 Kết nối với mình
 
