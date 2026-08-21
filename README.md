@@ -4,27 +4,27 @@ Sinh viên Công nghệ Thông tin. Học bằng cách làm dự án thật — 
 
 ## Dự án nổi bật
 
-| Dự án | Bài toán giải quyết | Tech stack | Repo |
-|---|---|---|---|
-| **LMS** | Hệ thống quản lý học tập: khoá học, bài giảng, người học (đồ án 3) | TypeScript | [siinquyet/LMS](https://github.com/siinquyet/LMS) |
-| **QLmobile** | Ứng dụng Android quản lý thông tin (đồ án mobile) | Kotlin | [siinquyet/QLmobile](https://github.com/siinquyet/QLmobile) |
-| **QLSthuvienCsharp** | Phần mềm quản lý thư viện sách: mượn/trả, tra cứu | C# | [siinquyet/QLSthuvienCsharp](https://github.com/siinquyet/QLSthuvienCsharp) |
+| Dự án | Bài toán giải quyết | Tech stack | Repo | Demo |
+|---|---|---|---|---|
+| **LMS** | Nền tảng học tập trực tuyến: khoá học, bài học & tiến độ, quiz/bài tập, giỏ hàng–thanh toán, forum, phân quyền học viên–giảng viên–admin | React · Node.js (Express) · Prisma · PostgreSQL | [Repo](https://github.com/siinquyet/LMS) | — |
+| **QLmobile** | Ứng dụng Android quản lý thông tin (đồ án mobile) | Kotlin | [Repo](https://github.com/siinquyet/QLmobile) | — |
+| **QLSthuvienCsharp** | Phần mềm quản lý thư viện (console): thêm/xoá/sửa/tìm sách, mượn/trả, danh sách mượn trả | C# · SQL Server | [Repo](https://github.com/siinquyet/QLSthuvienCsharp) | — |
 
 ## Tech stack
 
-**Dùng hàng ngày:** TypeScript · JavaScript · React · Node.js · HTML/CSS
+**Dùng hàng ngày**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css" alt="icons hàng ngày" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,tailwindcss,html,css" alt="icons hàng ngày" />
 
 </div>
 
-**Đã dùng qua đồ án:** Kotlin · C# · SQL
+**Đã dùng qua đồ án**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,cs" alt="icons qua đồ án" />
+<img src="https://skillicons.dev/icons?i=kotlin,cs,postgres,prisma" alt="icons qua đồ án" />
 
 </div>
 
